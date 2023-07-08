@@ -1,7 +1,0 @@
-git commit -m "Adding new file" ". And the commit's only going to get
-
-the file from the to be committed state, which is the staging area.
-
-So now, if we do a "git status", we still have our modified "hipster.txt" file,
-
-which has not been committed yet. So we have to add that file to the staging area.
